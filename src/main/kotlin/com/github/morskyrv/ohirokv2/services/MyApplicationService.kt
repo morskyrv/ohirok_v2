@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.morskyrv.ohirokv2.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.morskyrv.ohirokv2.MyBundle
 
 class MyApplicationService {
 
